@@ -1,14 +1,3 @@
-# React Boilerplate (deprecated)
-
-## This project is deprecated. Please use [Create React App](https://github.com/facebook/create-react-app) to bootstrap your React projects.
-
-[![Build Status](https://travis-ci.org/digiaonline/react-boilerplate.svg?branch=master)](https://travis-ci.org/digiaonline/react-boilerplate)
-[![Test Coverage](https://lima.codeclimate.com/github/digiaonline/react-boilerplate/badges/coverage.svg)](https://lima.codeclimate.com/github/digiaonline/react-boilerplate/coverage)
-[![Code Climate](https://codeclimate.com/github/digiaonline/react-boilerplate/badges/gpa.svg)](https://codeclimate.com/github/digiaonline/react-boilerplate)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-A [Digia](https://github.com/digiaonline/) project.
-
 ## Why do I want this?
 
 As you probably know, there are numerous boilerplates available for [React](https://facebook.github.io/react/), so you might be wondering why you would want to use ours. Most of the boilerplate projects come with a lot of code that you rarely need. Our boilerplate was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and provides you with a great starting point for any React project with as few lines of code as possible, especially if you want to use [Flowtype](https://flowtype.org/).
@@ -44,7 +33,7 @@ Install [create-project](https://www.npmjs.com/package/create-project) and creat
 
 ```bash
 yarn global add create-project
-create-project my-project digiaonline/react-boilerplate && cd my-project
+create-project my-project sunny250984/react-boilerplate && cd my-project
 ```
 
 ### Install dependencies
